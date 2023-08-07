@@ -1,4 +1,4 @@
-### Front-end Desenvolvido:
+### Back-end Desenvolvido:
 <h2 align="center">
   Mockup Checkout
 </h2>
